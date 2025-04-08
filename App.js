@@ -1,0 +1,1 @@
+console.log('Janje AI frontend running');
